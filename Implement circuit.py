@@ -5,4 +5,5 @@ def circuit(A,B,C):
     g = e & f
     Q = d | g
     print("Final output: ",Q)
+#Example implementation
 circuit(0,1,1) 
